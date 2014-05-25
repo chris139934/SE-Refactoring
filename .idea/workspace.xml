@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="58418028-e4c8-430f-aa99-701fb77208bc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Customer.java" afterPath="$PROJECT_DIR$/Customer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rental.java" afterPath="$PROJECT_DIR$/Rental.java" />
     </list>
     <ignored path="Refactoring.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -125,8 +126,8 @@
       <file leaf-file-name="Rental.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Rental.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
-              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
+              <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -155,8 +156,8 @@
       <file leaf-file-name="Customer.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36150235" vertical-offset="75" max-vertical-offset="714">
-              <caret line="25" column="62" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
+            <state vertical-scroll-proportion="0.1486698" vertical-offset="75" max-vertical-offset="714">
+              <caret line="17" column="73" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -175,8 +176,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Rental.java" />
         <option value="$PROJECT_DIR$/Customer.java" />
+        <option value="$PROJECT_DIR$/Rental.java" />
       </list>
     </option>
   </component>
@@ -354,12 +355,12 @@
       <changelist id="58418028-e4c8-430f-aa99-701fb77208bc" name="Default" comment="" />
       <created>1401015147245</created>
       <updated>1401015147245</updated>
-      <workItem from="1401015157156" duration="1944000" />
+      <workItem from="1401015157156" duration="2275000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1944000" />
+    <option name="totallyTimeSpent" value="2275000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="800" height="860" extended-state="0" />
@@ -439,16 +440,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Rental.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36150235" vertical-offset="75" max-vertical-offset="714">
-          <caret line="25" column="62" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
+        <state vertical-scroll-proportion="0.1486698" vertical-offset="75" max-vertical-offset="714">
+          <caret line="17" column="73" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
           <folding />
         </state>
       </provider>

@@ -18,12 +18,13 @@ public class Movie {
         return title;
     };
 
-    int getFrequentRenterPoint(){
+    int getFrequentRenterPoints(){
         if((getPriceCode()==Movie.NEW_RELEASE)&& daysRented > 1)
             return 2;
         else
             return 1;
     }
+
     double getCharge() {
         double result = 0;
         switch (getPriceCode()) {
